@@ -2,7 +2,7 @@
   "name": "sign-message",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://scientistnik.github.com/sign-message",
+  "homepage": "https://karma-blockchain.github.com/sign-message",
   "dependencies": {
     "@material-ui/core": "^1.4.2",
     "@material-ui/icons": "^2.0.2",
